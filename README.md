@@ -7,11 +7,17 @@ It was a group project. <a href="https://github.com/SharifRafi">Md. Al Sharif Zo
 ---
 
 ### Project Objective:
+
 ● Build the project as straightforward as possible.
+
 ● Provide necessary functionality which is essential for the user.
+
 ● Provide library facilities.
+
 ● Provide download mechanism.
+
 ● Provide a better user interface.
+
 ● Provide services offline.
 
 
@@ -36,13 +42,13 @@ There are various approach for software development. Various model is used acros
 
 **Splash Screen:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Splash%20Screen.png" height="600"/>
 
 At the starting of the application we will see a view for some milliseconds. This view or screen is called splash screen or launch screen. It will always occur at the starting of the application and view for some milliseconds.
 
 **Home Screen:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Home%20Screen.png" height="600"/>
 
 After the splash view we are automatically navigated to the home screen . Here we will see at the top a cover photo, in the middle section class wise categorized digital book section and at the end level we will see the tab bar.
 Cover Photo- It is implemented only for better view.
@@ -50,19 +56,19 @@ Book Section- Here users can find their books according to their education level
 
 **List Screen:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/List%20Screen%201.png" height="600"/>       <img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/List%20Screen%202.png" height="600"/>
 
 In our application the second page or screen is a list view. Here users can find their desired books according to subject or topic.
 
 **About:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/About.png" height="600"/>
 
 Here we told about the developer and the project motive and also goals.
 
 **Download & Preview Screen:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Download%20%26%20Preview%20Screen%201.png" height="600"/>        <img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Download%20%26%20Preview%20Screen%202.png" height="600"/>
 
 This screen can be found by the user when he/she clicked or touched a specific book. This view will offer the user to download or view the book using the application.
 
@@ -73,7 +79,7 @@ This screen can be found by the user when he/she clicked or touched a specific b
 In acquisition-oriented systems engineering, a top-level system design represents the envisioned implementation of a system in sufficient detail to support credible projections of cost, schedule, performance, evolution, and risk. A top-level system design can be used to assess system feasibility at the outset of a program, as a basis for performing analyses of alternatives, and as a tool to help finalize requirements and budgets prior to a system development contract solicitation. When developed with careful consideration of its purpose, the top-level system design becomes the program's early technical baseline for acquisition planning activities.
 Top-Level Design is both a design concept and a design method. Unlike software engineering, information resource planning and technology road maps, Top-level Design as a design method is not clearly defined in terms of its contents and methods.
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Top%20Level%20Design%20of%20the%20System.png" height="600"/>
 
 ---
 
@@ -81,7 +87,7 @@ Top-Level Design is both a design concept and a design method. Unlike software e
 
 A system diagram is a visual ​model​ of a ​system​, its components, and their interactions. With supporting documentation, it can capture all the essential information of a system's design. There are many variations of diagramming style that all fall under this rubric. The style presented here is intended to be optimally consistent with the rest of this courseware.
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/System%20Diagram.png" height="600"/>
 
 ---
 
@@ -89,7 +95,7 @@ A system diagram is a visual ​model​ of a ​system​, its components, and 
 
 A use case diagram at its simplest is a representation of a user's interaction with the system that shows the relationship between the user and the different use cases in which the user is involved. A use case diagram can identify the different types of users of a system and the different use cases and will often be accompanied by other types of diagrams as well. The use cases are represented by either circles or ellipses.
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Use%20Case%20Diagrams.png" height="600"/>
 
 ---
 
@@ -98,7 +104,7 @@ A use case diagram at its simplest is a representation of a user's interaction w
 A ​flowchart​ is a type of ​diagram​ that represents a ​workflow​ or ​process​. A flowchart can also be defined as a diagrammatic representation of an ​algorithm​, a step-by-step approach to solving a task. The flowchart shows the steps as boxes of various kinds, and their order by connecting the boxes with arrows. This diagrammatic representation illustrates a
 solution model to a given ​problem​. Flowcharts are used in analyzing, designing, documenting or managing a process or program in various fields.
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+<img src="https://github.com/arikaafrinboshra/NCTB-Books/blob/master/NCTB%20ss/Flow%20Chart.png" height="600"/>
 
 ---
 
